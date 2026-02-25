@@ -2,19 +2,17 @@
 
 I'm a student developer from Minsk, currently studying to become a **Programming Technician**. I'm passionate about frontend development and building modern web applications with clean, maintainable code.
 
-#### 🛠 Tech Stack & Tools
-
 **Frontend**
 - HTML5, CSS3, JavaScript (ES6+), TypeScript (базово)
 - React (Hooks, Components, Router, Redux Toolkit)
 - Tailwind CSS, SCSS, CSS Modules
-- Vite, Webpack (базово)
+- Vite, Webpack 
 
 **Tools & Other**
 - Git & GitHub
 - REST API integration (fetch, axios)
-- Docker (basics)
-- Figma (basic)
+- Docker 
+- Figma
 
 #### 🎯 Looking for
 
