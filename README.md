@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there! 👋 I'm Anna
 
-<!--
-**obijenka/obijenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer from Minsk, currently studying to become a **Programming Technician**. I'm passionate about frontend development and building modern web applications with clean, maintainable code.
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript (базово)
+- React (Hooks, Components, Router, Redux Toolkit)
+- Tailwind CSS, SCSS, CSS Modules
+- Vite, Webpack (базово)
+
+**Tools & Other**
+- Git & GitHub
+- REST API integration (fetch, axios)
+- Docker (basics)
+- Figma (basic)
+
+#### 🎯 Looking for
+
+A **part-time job or internship** where I can grow as a developer. I'm open to:
+- Frontend development (React)
+- Any IT-related role where I can learn and contribute
+
+#### 📫 How to reach me
+
+- **Email:** annasamailovich@gmail.com
+- **Telegram:** @nyanyanyyyy
+
+---
+
+*Thanks for stopping by! Feel free to reach out — I'm always open to chat about tech, opportunities, or just to connect.*
